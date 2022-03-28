@@ -19,7 +19,8 @@ The list of users/server members varies in size, depending on the length of a us
   \Fix: TBD
 
 The Accent color displays weirdly.
-  \Workaround: Enable the original fluent theme together with my custom version, and modify the accent color in that to your desirable color, 
+  \Workaround: Enable the original fluent theme together with my custom version, 
+   and modify the accent color in that to your desired color, 
    then modify the accent color in my custom theme to be either a different shade or a contrasting color.
   \Fix: TBD
 ```
