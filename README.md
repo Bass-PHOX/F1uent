@@ -11,6 +11,14 @@ I mean, I havent finished the import yet, but if you insist...
 ### Powercord
 No instructions yet! I still have to prepare the files!
 
+## Known Bugs
+
+```
+The list of users/server members varies in size, depending on the length of a users status.
+  \Workaround: Enable the original fluent theme together with my custom version.
+  \Fix: TBD
+```
+
 ## Images
 ### Chat Preview
 ![Chat Preview](https://i.imgur.com/rD1ZOvy.png)
